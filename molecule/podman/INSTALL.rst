@@ -1,14 +1,12 @@
 *********************************
-Vagrant driver installation guide
+Podman driver installation guide
 *********************************
 
 Requirements
 ============
 
-* Libvirt
-* Vagrant
-* Vagrant-libvirt plugin
-* Molecule-vagrant plugin
+* Podman
+* Molecule-podman plugin
 
 
 Install
@@ -23,4 +21,5 @@ widely recommended `'--user' flag`_ when invoking ``pip``.
 
 .. code-block:: bash
 
-    $ pip install 'molecule_vagrant'
+    $ pip install 'molecule_podman'
+
