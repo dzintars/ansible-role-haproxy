@@ -10,7 +10,7 @@
   dnf:
     name: "{{ item }}"
     state: latest
-  loop: "{{ packages }}"
+  loop: "{{ packages.redhat }}"
 
 - name: Turn On packet forwarding in order HAProxy to start
   sysctl:
