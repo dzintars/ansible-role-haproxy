@@ -2,13 +2,11 @@
 # handlers file for haproxy
 
 - name: Restart HAProxy
-  become: yes
   service:
     name: haproxy
     state: restarted
 
 - name: Restart firewalld
-  become: yes
   systemd:
     name: firewalld
     state: restarted
