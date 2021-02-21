@@ -2,6 +2,8 @@
 
 This role installs HAProxy server as Systemd service.
 
+[![Release][image-release]][link-release]
+
 ## Requirements
 
 In order to start HAProxy service all TLS certificates should be in place. Refer to config file to see the locations and names.
