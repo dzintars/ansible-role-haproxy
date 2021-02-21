@@ -1,2 +1,10 @@
 ---
 # defaults file for haproxy
+
+ansible_python_interpreter: "/usr/bin/python3"
+
+root_domain: oswee.com
+name: bastion
+network: 192.168.1
+host: 2
+cluster_name: ocp
