@@ -1,8 +1,8 @@
 # HAProxy
 
-This role installs HAProxy server as Systemd service.
-
 [![Release][image-release]][link-release]
+
+This role installs HAProxy server as Systemd service.
 
 ## Requirements
 
