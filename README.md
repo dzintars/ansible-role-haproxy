@@ -18,6 +18,9 @@ BSD
 
 ## Author Information
 
-An optional section for the role authors to include contact information, or a website (HTML is not allowed).
+This role was created in 2020 by [Dzintars Klavins](https://dzintars.github.io)
 
-https://discourse.haproxy.org/t/ssl-handshake-failure-hangs-haproxy/2730
+## Credits
+
+HAProxy custom Error pages by Jonathan Rosewood
+https://github.com/Jonathan-Rosewood/haproxy-custom-errors
