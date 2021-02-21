@@ -42,7 +42,7 @@
   loop:
     - 6443/tcp  # HAProxy
     - 6443/udp
-    - 9000/tcp  # HAProxy stats page
+    - 9000/tcp  # HAProxy stats/health page
     - 22623/tcp  # HAProxy
     - 22623/udp
 
