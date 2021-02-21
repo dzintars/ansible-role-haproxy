@@ -27,5 +27,5 @@ This role was created in 2020 by [Dzintars Klavins](https://dzintars.github.io)
 HAProxy custom Error pages by Jonathan Rosewood
 https://github.com/Jonathan-Rosewood/haproxy-custom-errors
 
-[image-release]: https://img.shields.io/github/release/dzintars/ansible-role-haproxy.svg
+[image-release]: https://img.shields.io/github/tag/dzintars/ansible-role-haproxy.svg
 [link-release]: https://github.com/dzintars/ansible-role-haproxy/releases
