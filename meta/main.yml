@@ -1,7 +1,8 @@
 ---
 
 galaxy_info:
-  author: Dzintars Klavins
+  role_name: haproxy
+  author: dzintars
   description: your description
   company: your company (optional)
 

@@ -3,6 +3,9 @@
 
 ansible_python_interpreter: "/usr/bin/python3"
 
+haproxy_user: haproxy
+haproxy_group: haproxy
+
 root_domain: oswee.com
 name: bastion
 network: 192.168.1
